@@ -1,4 +1,5 @@
 # 🏏 IPL Team Stats Analytics – Excel
+![IPL Data Analysis Report](https://github.com/MadhurDwivedi/IPL_Team_Stats_Analytics_Excel/blob/main/IPL%20Data%20Analysis%20Report.png)
 ## 📌 Project Objective
 The objective of this project is to analyze Indian Premier League (IPL) match and team performance data using Microsoft Excel to uncover trends related to team strategies, match outcomes, venues, and player achievements.
 
